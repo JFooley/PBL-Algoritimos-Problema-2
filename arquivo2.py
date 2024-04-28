@@ -73,7 +73,7 @@ def records(matriz): ### Função que mostra os records
 def sobre(): ### Função que exibe na tela informações sobre o jogo
     os.system("cls")
     print(' '*15,'SOBRE')
-    print('''Esse é um jogo é uma re-imaginação do
+    print('''Esse jogo é uma re-imaginação do
 clássico dos fliperamas, Asteroids, lançado
 a Atari em 1982 e faz parte do processo de
 seleção da Rookie Software Inc.''')
